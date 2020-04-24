@@ -18,19 +18,19 @@ int main()
 
     if (imc <= 18.5)
     {
-        cout<<"Você está com seu IMC em "<<imc<<" voce esta ABAIXO DO PESO!";
+        cout<<"VocÃª estÃ¡ com seu IMC em "<<imc<<" voce esta ABAIXO DO PESO!";
     }
     else if (imc>18.5 && imc<=25)
     {
-        cout<<"Você está com seu IMC em "<<imc<<" voce esta com PESO NORMAL!";
+        cout<<"VocÃª estÃ¡ com seu IMC em "<<imc<<" voce esta com PESO NORMAL!";
     }
     else if (imc>25 && imc<=30)
     {
-        cout<<"Você está com seu IMC em "<<imc<<" voce esta ACIMA DO PESO!";
+        cout<<"VocÃª estÃ¡ com seu IMC em "<<imc<<" voce esta ACIMA DO PESO!";
     }
     else if (imc>30)
     {
-        cout<<"Você está com seu IMC em "<<imc<<" voce esta OBESO!";
+        cout<<"VocÃª estÃ¡ com seu IMC em "<<imc<<" voce esta OBESO!";
     }
 
     return 0;

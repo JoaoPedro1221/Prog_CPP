@@ -28,11 +28,11 @@ int main()
     }
     else if (cod==3)
     {
-        cout<<"Voce escolheu: Pagamento em duas vezes, preço do produto: "<<prod;
+        cout<<"Voce escolheu: Pagamento em duas vezes, preÃ§o do produto: "<<prod;
     }
     else if (cod==4)
     {
-        cout<<"Voce escolheu: Pagamento em tres vezes, preço do produto c/ juros: "<<prod*1.1;
+        cout<<"Voce escolheu: Pagamento em tres vezes, preÃ§o do produto c/ juros: "<<prod*1.1;
     }
     else
     {
